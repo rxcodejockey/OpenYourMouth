@@ -1,78 +1,38 @@
-Pizza Dough
+Pizza Dough - Long Rest, Food Processor
 ===========
 Ingredients
 -----------
-* 1kg '00' Floor
-* 2 x 7g satches of yeast
-* 1 tbsp sugar
-* 4 tbsp olive oil
-* 600-700mL body temp water (best amount seems to vary depending on floor type, 660mL is a good start)
+16.5 ounces of bread flour (About 3 cups)
+0.5 tsp Dry Instant Yeast 
+2 tsp Sugar
+1 tbsp Extra Virgin Olive Oil
+11 ounces cold water (about 1.3 cups)
+1.5 tsp Table Salt
 
-For fresh pizza dough it is recommend to buy the highest quality floor avialible. 
-Fresh yeast is also advisible over satchets of dried but it does require starting and can be less consistent.
 
-Equipment
----------
-* 1 700+mL Jug
-* 1 fork
-* 1 large bowl
-* Cling film / tea towl
-* 1 warm place to put the bowl (293K - 300K for temp ideally)
+* The bread flour should be a high-protein white.  I use Shepherd's Grain Hi-Gluten from the Inland Northwest, but any brand will do.
+* I use Red Star yeast
+* The olive oil is a Kirkland brand
 
-Optional
-* 1 Stand mixer with dough hook OR bread maker with dough setting
 
 Process
 -------
+I use a Kitchen Aid food processor with a 14 cup bowl and standard blade. 
 
-Follow on of the methods below depending on what equipment you have 
+1. Combine the flour, sugar, and yeast in the bowl and pulse a few times to combine. 
+2. Turn on the processor and slowly pour in the water until it is incorporated and the dough forms a ball.
+3. Let the dough rest 15 minutes.
+4. Sprinkle in the salt and pour in the olive oil.
+5. Turn on the processor and mix for 1 minute until the dough looks satin-like or shiny.
+6. Remove dough to a board, knead a few times, and form into a ball.
+7. Place dough into an oiled bowl, cover, and refrigerate for at least 24 hours.
 
-#### By Hand
-* Add 660mL of body temp water to a jug, add the sugar, yeast then oil and mix, then set aside. 
-* Clean your work space, you will need a 60 by 30cm space of clean work surface
-* Sieve your floor into a mound on the work surface
-* Make decent size hole in the middle of your mound so it looks like a short fat volcano (there should still be a good layer of floor at the bottom of the caldera)
-* Get fork.
-* Pour the water-yeast mix into the volcano
-* With the fork slowly knock excess floor from the edges of volcano into the liquid and mix
-* Increase the amount of floor dawn in
-* Eventually the mix will be too thick for the fork to work with, when this happens, it's Kneading time.
-* Dust your hands with floor
-* Grab dough and knead
-* Keep kneading
-* When the dough is elasticy, smooth and light you're done.
-* Dust the large bowl with floor, tip out excess
-* Put dough ball into bowl
-* Cover with cling film or tea towl
-* Place bowl into warm place
-* Leave dough for 1-2h hours (dough should double in size)
-* Dusty hands and surface with flour and knead lightly so that some air trapped in the dough escapes
-* Dough is now ready to shaping into bases or storage
+After the 24 hours, pull the dough out of the fridge and let it warm up for at least 1 hour before you make the pizza. I usually divide the dough into 4 equal parts, but 2, 3, or more will be fine.  
 
-#### With stand mixer
-* Add 660mL of body temp water to a jug, add the sugar, yeast then oil and mix, then set aside.
-* Add dough hook to stand mixer
-* Sieve floor into bowl of stand mixer
-* Add liquid
-* turn on mixer until dough is smooth and elasticy
-* Dust the large bowl with floor, tip out excess
-* Put dough ball into bowl
-* Cover with cling film or tea towl
-* Place bowl into warm place
-* Leave dough for 1-2h hours (dough should double in size)
-* Dusty hands and surface with flour and knead lightly so that some air trapped in the dough escapes
-* Dough is now ready to shaping into bases or storage
+Roll out into a round shape and top with whatever you like. Bake in a hot (500 degree) oven, preferably on a baking stone until golden brown and the cheese is slightly burnt.
 
-#### With bread maker
-* Add 660mL of body temp water to the pan of the bread maker, add the sugar, yeast then oil.
-* Sieve floor into pan of bread maker
-* turn on bread machine using dough setting
-* if your bread machines dough setting includes proving time ( machine will run for 90 mins ) then skip to point A otherwise you will need to manually prove the dough
-* Dust the large bowl with floor, tip out excess
-* Put dough ball into bowl
-* Cover with cling film or tea towl
-* Place bowl into warm place
-* Leave dough for 1-2h hours (dough should double in size)
-* POINT A 
-* Dusty hands and surface with flour and knead lightly so that some air trapped in the dough escapes
-* Dough is now ready to shaping into bases or storage
+Eat, Repeat.
+
+
+ 
+
